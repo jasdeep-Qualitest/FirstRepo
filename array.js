@@ -44,10 +44,6 @@ module.exports= class abc
         this.fn=fn
         this.ln=ln
     }
-    
-   fullname() {
-        return this.fn+this.ln+this.lna
-        
-    }
+  
 }
 
