@@ -42,7 +42,8 @@ module.exports= class abc
 
     constructor(fn,ln){
         this.fn=fn
-        this.ln=ln
+        this.ln=jn
+        
     }
   
 }
