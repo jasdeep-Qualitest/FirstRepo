@@ -15,12 +15,12 @@ console.log(a(5,4))
 console.log("teusday".indexOf("dhay"))
 
 
-let person={
-    f:"jasdeep ",
-    l:"singh",
-    fun : function(){return(this.f+this.l)}
+// let person={
+//     f:"jasdeep ",
+//     l:"singh",
+//     fun : function(){return(this.f+this.l)}
 
-}
+// }
 console.log(person.fun())
 
 
